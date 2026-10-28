@@ -398,7 +398,7 @@
         "test": "npm run compile && node ./node_modules/vscode/bin/test"
     },
     "dependencies": {
-        "glob": "^13.0.6",
+        "glob": "^14.0.3",
         "jsonstream": "^1.0.3",
         "which": "^7.0.0"
     },
@@ -406,7 +406,7 @@
         "@types/glob": "^9.0.0",
         "@types/jsonstream": "^0.8.33",
         "@types/mocha": "^10.0.10",
-        "@types/node": "^26.4.1",
+        "@types/node": "^26.6.5",
         "@types/which": "^3.0.4",
         "typescript": "^7.0.2",
         "vscode": "^1.1.37"
